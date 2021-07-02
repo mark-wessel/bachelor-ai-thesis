@@ -1,18 +1,22 @@
 # bachelor-ai-thesis
 This repository hosts the experiment used in the following bachelor theses, please cite whichever best fits your use:
 ````
-@phdthesis{ai_webcam_2021, 
+@mastersthesis{ai_webcam_2021, 
+    type={Bachelor's Thesis},
     title={Exploration of webcam-based eye tracking by comparing gaze behaviour of signers of Sign Language of the Netherlands during interpretation of sign in video}, 
     author={Wessel, M.}, 
     year={2021},
-    month=7
+    month=7,
+    school = {Utrecht University},
 }
 
-@phdthesis{psych_ngt_2021, 
+@mastersthesis{psych_ngt_2021, 
+    type={Bachelor's Thesis},
     title={Novice and expert gaze behavior in users of sign language}, 
     author={Richters, M. and Rutten, P.A.W. and van Vliet, B.Y.A.}, 
     year={2021},
-    month=7
+    month=7,
+    school = {Utrecht University},
 }
 ````
 
