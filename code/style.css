@@ -1,0 +1,21 @@
+@import '/style/style.less';
+
+.no_scaling {
+    transform: scale(1) !important;
+}
+
+.small_scaling {
+    transform: scale(0.5) !important;
+}
+
+.swal2-popup {
+    font-size: 1.5rem !important;
+}
+
+label {
+    font-weight: normal !important;
+}
+
+.col-form-label {
+    font-weight: bold !important;
+}
